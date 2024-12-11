@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lavanya241
-- 👀 I’m interested in learing data science and how to analysis works
+- 👀 I’m interested in learing data science and how things work
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
